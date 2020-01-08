@@ -1,0 +1,60 @@
+[<a href="http://maconaria.ofertou.com" target="_blank">
+<img class="img-responsive hidden-xs" src="http://www.maconariaonline.com/imgs/banner-ofertou.png" style="padding: 8px 0; margin: auto;"/>
+<img class="img-responsive hidden-sm hidden-md hidden-lg" src="http://www.maconariaonline.com/imgs/banner-ofertou-mobile.png" style="padding: 8px 0; margin: auto;"/>
+</a>, <a href="http://www.maconariaonline.com" title="Maçonaria Online - Início">
+<img alt="Maçonaria Online - Início" border="0" class="img-responsive" src="http://www.maconariaonline.com/imgs/iface/maconariaonline-logo.png" style="margin-top: 10px; width: 273px;">
+</img></a>, <a href="http://www.maconariaonline.com/login" title="Maçonaria Online - Entrar">Entrar</a>, <a href="http://www.maconariaonline.com/cadastro" title="Maçonaria Online - Faça seu cadastro"> Cadastrar</a>, <a alt="Negócios entre irmãos" class="fontsize" href="http://www.maconariaonline.com/pesquisar-cpm" title="Negócios entre irmãos">Negócios entre irmãos</a>, <a alt="Currículos" class="fontsize" href="http://www.maconariaonline.com/pesquisar-curriculos" title="Currículos">Currículos</a>, <a alt="Paramaçônicos" class="fontsize" href="http://www.maconariaonline.com/paramaconicos" title="Paramaçônicos">Paramaçônicos</a>, <a class="menu-open" href="#" style="font-size: 13px; color: white; ">
+<b><span style="margin-right: 12px;">Menu</span></b><img src="http://www.maconariaonline.com/imgs/iface/menu-hamb.png" style="cursor: pointer; max-width: 30px;"/>
+</a>, <a class="menu-close text-right" href="#" style="margin-right: 8px;">×</a>, <a href="http://www.maconariaonline.com/sessoes-e-eventos-maconicos">Sessões e eventos</a>, <a href="http://www.maconariaonline.com/noticias">Notícias</a>, <a href="http://www.maconariaonline.com/obituario">Obituário</a>, <a href="http://www.maconariaonline.com/potencias">Potências</a>, <a href="http://www.maconariaonline.com/lojas">Lojas</a>, <a href="http://www.maconariaonline.com/pesquisar-lojas">Fachadas</a>, <a href="http://www.maconariaonline.com/mapa-das-lojas">Mapa</a>, <a href="http://www.maconariaonline.com/trabalhos">Trabalhos</a>, <a href="http://www.maconariaonline.com/artigos">Artigos</a>, <a href="http://www.maconariaonline.com/fatos-e-curiosidades">Fatos e curiosidades</a>, <a href="http://www.maconariaonline.com/monumentos-maconicos">Monumentos Maçônicos</a>, <a href="http://www.maconariaonline.com/contato"><b>Contato</b></a>, <a href="http://www.maconariaonline.com/lojas/?estadocada=MG&amp;cidadecada=Todas"><b>MINAS GERAIS</b></a>, <a href="http://www.maconariaonline.com/loja/1140">
+                    14 de Julho 1525                  </a>, <a href="http://www.maconariaonline.com/loja/1302">
+                    27 de Abril 1452                  </a>, <a href="http://www.maconariaonline.com/4deagosto269">
+                    4 de Agosto 269                  </a>, <a href="http://www.maconariaonline.com/loja/519">
+                    Acácia Abaeteense 125                  </a>, <a href="http://www.maconariaonline.com/loja/1134">
+                    Acácia Arinense 2853                  </a>, <a href="http://www.maconariaonline.com/loja/541">
+                    Acácia Bocaiuvense 149                  </a>, <a href="http://www.maconariaonline.com/loja/1429">
+                    Acácia da Canastra 3217                  </a>, <a href="http://www.maconariaonline.com/loja/1406">
+                    Acácia de Acesita 2229                  </a>, <a href="http://www.maconariaonline.com/loja/1137">
+                    Acácia de Bambuí 2062                  </a>, <a href="http://www.maconariaonline.com/loja/424">
+                    Acácia de Januária 285                  </a>, <a href="http://www.maconariaonline.com/loja/1292">
+                    Acácia de Jerusalém 2415                  </a>, <a href="http://www.maconariaonline.com/loja/507">
+                    Acácia de Malacacheta 107                  </a>, <a href="http://www.maconariaonline.com/loja/615">
+                    Acácia de Poté 237                  </a>, <a href="http://www.maconariaonline.com/loja/628">
+                    Acácia de Santa Mônica 253                  </a>, <a href="http://www.maconariaonline.com/loja/1455">
+                    Acácia do Caminho Novo 2739                  </a>, <a href="http://www.maconariaonline.com/acaciadomonte058">
+                    Acácia do Monte 058                  </a>, <a href="http://www.maconariaonline.com/loja/1293">
+                    Acácia do Paraibuna 1691                  </a>, <a href="http://www.maconariaonline.com/loja/465">
+                    Acácia do Resplendor 64                  </a>, <a href="http://www.maconariaonline.com/loja/558">
+                    Acácia do Rio Verde 171                  </a>, <a href="http://www.maconariaonline.com/loja/385">
+                    Acácia do Sapucahy 329                  </a>, <a href="http://www.maconariaonline.com/loja/488">
+                    Acácia do Sul de Minas 88                  </a>, <a href="http://www.maconariaonline.com/acaciadotriangulo1924">
+                    Acácia do Triângulo 1924                  </a>, <a href="http://www.maconariaonline.com/loja/1414">
+                    Acácia do Vale 1967                  </a>, <a href="http://www.maconariaonline.com/loja/1188">
+                    Acácia do Vale do Urucuia 2100                  </a>, <a href="http://www.maconariaonline.com/loja/370">
+                    Acácia dos Alpes 345                  </a>, <a href="http://www.maconariaonline.com/loja/1381">
+                    Acácia dos Perdões 3407                  </a>, <a href="http://www.maconariaonline.com/loja/1144">
+                    Acácia e Hiram 3865                  </a>, <a href="http://www.maconariaonline.com/loja/1248">
+                    Acácia Ibiaense 2392                  </a>, <a href="http://www.maconariaonline.com/loja/408">
+                    Acácia Itabirense 303                  </a>, <a href="http://www.maconariaonline.com/loja/454">
+                    Acácia Mineira 53                  </a>, <a href="http://www.maconariaonline.com/loja/1349">
+                    Acácia Montebelense 2899                  </a>, <a href="http://www.maconariaonline.com/loja/456">
+                    Acácia Montesclarense 55                  </a>, <a href="http://www.maconariaonline.com/acaciaunaiense0">
+                    Acácia Unaiense 247                  </a>, <a href="http://www.maconariaonline.com/loja/1439">
+                    Acácia Varzeapalmense 2307                  </a>, <a href="http://www.maconariaonline.com/loja/1441">
+                    Acácia Viçosense 1808                  </a>, <a href="http://www.maconariaonline.com/loja/373">
+                    Acácias da Verdade 341                  </a>, <a href="http://www.maconariaonline.com/loja/607">
+                    Acácias de Contagem 228                  </a>, <a href="http://www.maconariaonline.com/loja/1239">
+                    Acadêmica Caminhos de Jaccques Demo 3695                  </a>, <a href="http://www.maconariaonline.com/loja/1218">
+                    Acadêmica Libertas Homini 3835                   </a>, <a href="http://www.maconariaonline.com/loja/1141">
+                    Acadêmica Real Fênix 3773                  </a>, <a href="http://www.maconariaonline.com/loja/1142">
+                    Acadêmica Sete Setembro Barão Mauá 3352                  </a>, <a href="http://www.maconariaonline.com/loja/1143">
+                    Acadêmica Simon Bolivar 3575                  </a>, <a href="http://www.maconariaonline.com/loja/1462">
+                    Acadêmica União Uberabense 3661                  </a>, <a href="http://www.maconariaonline.com/loja/1182">
+                    Acadêmus 1753                  </a>, <a href="http://www.maconariaonline.com/loja/316">
+                    AÇÃO E SILÊNCIO                   </a>, <a href="http://www.maconariaonline.com/acaoetrabalho1345">
+                    Ação e Trabalho 1345                  </a>, <a href="http://www.maconariaonline.com/loja/497">
+                    AD GLORIAM ET SAPIENTIAM                   </a>, <a href="http://www.maconariaonline.com/loja/1229">
+                    Agostinho de Souza Lima 2376                  </a>, <a href="http://www.maconariaonline.com/loja/580">
+                    AGUIA DAS ALTEROSAS                   </a>, <a href="http://www.maconariaonline.com/loja/595">
+                    ÁGUIA DE HAIA                   </a>, <a href="http://www.maconariaonline.com/lojas/?dia=&amp;type=&amp;estadocada=MG&amp;cidadecada=Todas&amp;busca=&amp;cont=50&amp;inicio=50">Próximas</a>, <a href="http://www.maconariaonline.com/lojas" title="Pesquisar Lojas Maçônicas"><img border="0" height="80" src="http://www.maconariaonline.com/imgs/pesquisar-lojas-300x80.png" title="Pesquisar Lojas Maçônicas"/></a>, <a href="http://www.maconariaonline.com/sessoes" title="Pesquisar Agenda de Sessões Maçônicas"><img border="0" height="80" src="http://www.maconariaonline.com/imgs/agenda-de-sessoes-300x80.png" title="Pesquisar Agenda de Sessões Maçônicas"/></a>, <a href="http://www.maconariaonline.com" title="Maçonaria Online - Início">
+<img alt="Maçonaria Online - Início" border="0" src="http://www.maconariaonline.com/imgs/iface/maconariaonline-logo.png" style="width: 100%; max-width: 273px;"/>
+</a>, <a href="http://www.maconariaonline.com/contato" style="color: white;" title="Maçonaria Online - Contato"><b>Entre em contato conosco!</b></a>]

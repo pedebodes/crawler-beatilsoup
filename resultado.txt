@@ -1,0 +1,2045 @@
+
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA JAGUARI, 373, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 24/10/1987</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA SENHORA DAS MERCÊS Nº 15, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 27/01/1989</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º andar, Caiçara - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Templo 702, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA GRÃO PARÁ, 424, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA GRÃO-PARÁ Nº 424 - 1º And., Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Brasileiro</div>
+<div class="col-md-12"><b>Fundação:</b> 06/10/1986</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11 andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA ITAPETINGA Nº 2000, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AVENIDA BRASIL, 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 27/05/1897</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11 Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AVENIDA BARBACENA, 40, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA NENEM BICALHO 65, Não Informado - Contagem  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL, 478, templo 902, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> York (Emulação)</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, nº 985 - 11 andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL, 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA OLBIANO SAUSMIKAT, 123, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Templo GP, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Rito Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 17/02/1977</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Templo 801, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Av. Brasil, 478, . - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA GRÃO-PARÁ Nº 424, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA SENHORA DAS MERCES, 15, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 30/09/1983</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua 6 de Janeiro, 60, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA SESSENTA E DOIS Nº 44, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Brasileiro</div>
+<div class="col-md-12"><b>Fundação:</b> 05/06/2005</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Senhora das Mercês, 15, Santo André - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12"> AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA ANTÔNIO DE ALBUQUERQUE, 842 SL 202, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL, 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA GRÃO PARÁ, 424, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">CARLOS ALBERTO DO CARMO, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11 Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Templo 602, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL, 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">R.SEBASTIÃO L.OLIVEIRA, 38, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 11/09/1983</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 18/09/1987</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Pedro Lessa, 801, Santo André - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA GRÃO-PARÁ Nº 424, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 01/11/2003</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 -11º andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Não Informado, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA MAÇON RIBEIRO, 164, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Inormado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Templo 01, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL, 478, templo 801, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 21/11/1981</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 10/09/1977</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 22/04/2003</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua União de Contagem, 112, Inconfidentes - Contagem  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12"> AVENIDA BRASIL, 478 TEMPLO 501, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 12/09/1944</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Itambé. 73, Floresta - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL, 478, Templo 901, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA ANTONIO TEIXEIRA DIAS, 1600, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 08/09/1962</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 29/08/2000</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11° andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, templo 701, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 01/06/1896</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 -11º andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Não Informado, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Templo 801, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, templo 902, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL, 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 21/04/1999</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Nenem Bicalho, 65, Etn Hibisco - Contagem  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, templo 502, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> York (Emulação)</div>
+<div class="col-md-12"><b>Fundação:</b> 20/08/2000</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rio de Janeiro, 984 -Plc.Tiradentes 11º and., Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL, 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 24/06/2002</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11 Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA ITAMBÉ Nº 73, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Grão-Pará, 424, Não informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA OLBIANO SAUSMIKAT, 123, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 24/06/1955</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 23/01/1983</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA ITAPETINGA, 2000, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Templo 502, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL, 478, templo 502, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 21/09/1981</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL, 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Brasileiro</div>
+<div class="col-md-12"><b>Fundação:</b> 15/06/2007</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Lazurita, 363, Bonfim - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 01/06/2004</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Jacuí, 151, Floresta - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA DAMAS RIBEIRO Nº 33, Não Informado - Contagem  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12"> RUA DR. OLAVO GOMES PINTO, 539, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA GRÃO PARÁ, 424, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 18/08/1992</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Itambé, 73, Floresta - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">R. ITAPETINGA, +2000, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Adonhiramita</div>
+<div class="col-md-12"><b>Fundação:</b> 15/07/1922</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Jaguarao, 260, Bonfim - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA SIMÃO TAMM Nº 483, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA ESPÍRITO SANTO, 696, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA ITAPETINGA, 2000, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Grão-Pará, 424, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Adonhiramita</div>
+<div class="col-md-12"><b>Fundação:</b> 21/08/1985</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11° andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 22/02/1989</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA NENÉM BICALHO, 65, Não Informado - Contagem  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 12/12/1944</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, templo 802, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 12/05/1897</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA MAÇOM RIBEIRO Nº 164, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Não Informado, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 04/02/1930</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Itambé, 73, Floresta - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 25/08/1983</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Avenida Barbacena, 85, Barro Preto - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Mato Grosso do Sul</b></div>
+<div class="col-md-12"><b>Rito:</b> Rito Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Spipe Calarge N° 2011, . - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 14/07/1961</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11 Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA TUCANO, 134 -Cx.Postal 26, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Brasileiro</div>
+<div class="col-md-12"><b>Fundação:</b> 21/09/1984</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Pedro Lessa, 801, Santo André - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV: BRASIL, 478, Templo 601, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA JAGUARI, 373, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Brasileiro</div>
+<div class="col-md-12"><b>Fundação:</b> 31/05/1944</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Pedro Lessa, 801, Santo André - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, templo 602, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Rito Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 08/08/1984</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA PEDRO PAULO REZENDE, 02, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> .</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, . - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Templo 801, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 12/09/1994</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio De Janeiro, 985 - 11º Andar, Centro30160-041 - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, templo 602, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL, 478, Santa Efigênia - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 09/06/1980</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985, . - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Pedro Lessa, 801, Santo André - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, templo 701, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 01/08/1974</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL, 478, templo 801, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Rito Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 08/08/1984</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">R.SEBASTIÃO L.OLIVEIRA, 38, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Templo 801, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 24/10/1987</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 12/09/1994</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio De Janeiro, 985 - 11º Andar, Centro30160-041 - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 12/12/1944</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 27/05/1897</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11 Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12"> AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Brasileiro</div>
+<div class="col-md-12"><b>Fundação:</b> 05/06/2005</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Senhora das Mercês, 15, Santo André - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Templo 801, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Templo 602, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 18/09/1987</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Pedro Lessa, 801, Santo André - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA GRÃO-PARÁ Nº 424, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA ANTONIO TEIXEIRA DIAS, 1600, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, templo 701, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12"> RUA DR. OLAVO GOMES PINTO, 539, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA MAÇOM RIBEIRO Nº 164, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 21/11/1981</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA SESSENTA E DOIS Nº 44, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Brasileiro</div>
+<div class="col-md-12"><b>Fundação:</b> 21/09/1984</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Pedro Lessa, 801, Santo André - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, templo 602, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 21/04/1999</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Nenem Bicalho, 65, Etn Hibisco - Contagem  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Não Informado, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Inormado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA ANTÔNIO DE ALBUQUERQUE, 842 SL 202, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA MAÇON RIBEIRO, 164, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA GRÃO PARÁ, 424, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 10/09/1977</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 23/01/1983</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA ITAPETINGA, 2000, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 11/09/1983</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Templo 702, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL, 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Pedro Lessa, 801, Santo André - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA NENEM BICALHO 65, Não Informado - Contagem  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL, 478, templo 902, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 22/02/1989</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 04/02/1930</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Itambé, 73, Floresta - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">CARLOS ALBERTO DO CARMO, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL, 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA ITAPETINGA Nº 2000, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">R. ITAPETINGA, +2000, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA NENÉM BICALHO, 65, Não Informado - Contagem  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL, 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 14/07/1961</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11 Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 01/11/2003</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 -11º andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 24/06/1955</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Templo 801, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, templo 502, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 29/08/2000</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11° andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA ESPÍRITO SANTO, 696, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA GRÃO-PARÁ Nº 424 - 1º And., Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 12/09/1944</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Itambé. 73, Floresta - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Av. Brasil, 478, . - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Adonhiramita</div>
+<div class="col-md-12"><b>Fundação:</b> 21/08/1985</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11° andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, templo 701, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 08/09/1962</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Brasileiro</div>
+<div class="col-md-12"><b>Fundação:</b> 06/10/1986</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11 andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, templo 802, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Adonhiramita</div>
+<div class="col-md-12"><b>Fundação:</b> 15/07/1922</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Jaguarao, 260, Bonfim - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL, 478, templo 502, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 01/08/1974</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA JAGUARI, 373, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, templo 602, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Grão-Pará, 424, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Templo 502, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA OLBIANO SAUSMIKAT, 123, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV: BRASIL, 478, Templo 601, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA SENHORA DAS MERCÊS Nº 15, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 21/09/1981</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 25/08/1983</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Avenida Barbacena, 85, Barro Preto - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Brasileiro</div>
+<div class="col-md-12"><b>Fundação:</b> 15/06/2007</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Lazurita, 363, Bonfim - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Rito Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 17/02/1977</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AVENIDA BRASIL, 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Grão-Pará, 424, Não informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Brasileiro</div>
+<div class="col-md-12"><b>Fundação:</b> 31/05/1944</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Pedro Lessa, 801, Santo André - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL, 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA ITAMBÉ Nº 73, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Templo GP, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA GRÃO PARÁ, 424, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> York (Emulação)</div>
+<div class="col-md-12"><b>Fundação:</b> 20/08/2000</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rio de Janeiro, 984 -Plc.Tiradentes 11º and., Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11 Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, templo 902, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL, 478, Templo 901, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA SIMÃO TAMM Nº 483, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA SENHORA DAS MERCES, 15, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Mato Grosso do Sul</b></div>
+<div class="col-md-12"><b>Rito:</b> Rito Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Spipe Calarge N° 2011, . - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 12/05/1897</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 24/06/2002</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11 Andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Não Informado, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA PEDRO PAULO REZENDE, 02, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> York (Emulação)</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, nº 985 - 11 andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 01/06/1896</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 -11º andar, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 09/06/1980</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985, . - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AVENIDA BARBACENA, 40, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA GRÃO PARÁ, 424, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 18/08/1992</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Itambé, 73, Floresta - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> .</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, . - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 30/09/1983</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua 6 de Janeiro, 60, Centro - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA OLBIANO SAUSMIKAT, 123, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Templo 01, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA ITAPETINGA, 2000, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Não Informado, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL, 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA TUCANO, 134 -Cx.Postal 26, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA GRÃO-PARÁ Nº 424, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 27/01/1989</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Rio de Janeiro, 985 - 11º andar, Caiçara - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA DAMAS RIBEIRO Nº 33, Não Informado - Contagem  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL, 478, Santa Efigênia - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL, 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">AV. BRASIL Nº 478, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 22/04/2003</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua União de Contagem, 112, Inconfidentes - Contagem  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Oriente do Brasil - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Escocês Antigo e Aceito</div>
+<div class="col-md-12"><b>Fundação:</b> 01/06/2004</div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">Rua Jacuí, 151, Floresta - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12">RUA JAGUARI, 373, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
+ [<div class="col-md-12 alert alert-info mt-10">
+<div class="col-md-12"><b>Grande Loja Maçônica - Minas Gerais</b></div>
+<div class="col-md-12"><b>Rito:</b> Não Informado</div>
+<div class="col-md-12"><b>Fundação:</b> </div>
+<div class="col-md-12"><b>Instalacao:</b> </div>
+<div class="col-md-12"> AVENIDA BRASIL, 478 TEMPLO 501, Não Informado - Belo Horizonte  - MG            </div>
+</div>]
